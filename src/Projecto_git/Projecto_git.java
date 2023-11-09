@@ -5,6 +5,26 @@ public class Projecto_git {
 			//Declaro un scanner que me va a servir para todas las preguntas
 			Scanner scaner = new Scanner(System.in);
 			//Declaro las variables booleanas 
+			/*
+			 * holaaaa maquinas de guerra
+			 * jijijijaaaaaaa
+			 * dsadasdasdasdas
+			 * das
+			 * ad
+			 * as
+			 * asd
+			 * as
+			 * d
+			 * as
+			 * das
+			 * da
+			 * d
+			 * as
+			 * d
+			 * as
+			 * d
+			 * 
+			 */
 			boolean fundida=true;
 			boolean interruptor=true;
 			boolean resuelto=false;
